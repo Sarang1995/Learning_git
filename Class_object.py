@@ -145,5 +145,3 @@ print(t2.cube())
 
 print("hello sarang")
 print("Git learning")
-print("this is for testing")
-print('Testing git')
