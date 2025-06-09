@@ -2,5 +2,3 @@ This is a learning project
 This is second line
 this is the thirt line
 this is the fourth line
-this is fifth line
-this is sixth line
